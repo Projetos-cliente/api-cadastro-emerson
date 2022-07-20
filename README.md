@@ -4,9 +4,9 @@ API com a funcionalidade de cadastrar clientes através de seu nome e CNPJ, tamb
 
 # Serviços:
 
-# /pessoas/cadastrar
-# /pessoas/{identificador}
-# /pessoas/buscarTodos
+ /pessoas/cadastrar
+ /pessoas/{identificador}
+ /pessoas/buscarTodos
 
 
 # Tecnologias Utilizadas:
@@ -14,3 +14,7 @@ API com a funcionalidade de cadastrar clientes através de seu nome e CNPJ, tamb
 versão do java: 8
 
 versão do MySQL: 8.0.29
+
+# Documentação:
+
+http://localhost:8080/swagger-ui/index.html#/
